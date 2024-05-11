@@ -1,0 +1,41 @@
+.conteudo{
+    font-family: var(--fonte-primaria);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3em;
+
+
+}
+
+.title{
+    font-size: 4vw;
+    font-weight: 600;
+    padding-top: 1em;
+
+}
+
+.text{
+    font-size: 1.5vw;
+    color: var(--cor-primaria);
+    padding: 1em 10em 1em 13em;
+    white-space: pre-line;
+
+}
+
+.list{
+    font-size: 1.5vw;
+    color: var(--cor-terciaria);
+    padding-right: 14.3em;
+    list-style-type: none;
+    background-color: var(--cor-primaria);
+    border-radius: 10px;
+    padding: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Estilos para dispositivos com largura máxima de 600px */}
+
+    @media only screen and (max-height: 100px) {
+        /* Estilos para dispositivos com largura máxima de 600px */}

@@ -1,0 +1,32 @@
+.text_rea{
+    margin-top: 1em;
+    font-size: 1vw;
+    color: var(--cor-primaria);
+    padding: 1em 1em 1em 1em;
+    white-space: pre-line;
+    background-color: var(--cor-primaria);
+    color: var(--cor-terciaria);
+    border-radius: 0.9em;
+}
+
+.list_rea{
+    font-size: 1vw;
+    list-style: none;
+    white-space: pre-line;
+    background-color: var(--cor-primaria);
+    color: var(--cor-terciaria);
+    margin-top: 1em;
+    padding: 1em 1em 1em 1em;
+    border-radius: 1.5em;
+}
+
+.text_rea2{
+    margin-top: 1em;
+    font-size: 1vw;
+    color: var(--cor-primaria);
+    padding: 1em 1em 1em 1em;
+    white-space: pre-line;
+    background-color: var(--cor-primaria);
+    color: var(--cor-terciaria);
+    border-radius: 0.9em;
+}
